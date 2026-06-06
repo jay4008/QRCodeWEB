@@ -2,7 +2,7 @@
 layout: default
 title: QR Studio - Home
 description: QR Studio is a fast, private, offline mobile app for scanning and generating QR codes and barcodes.
-permalink: /index/
+permalink: /
 ---
 
 <section class="hero">
@@ -32,7 +32,7 @@ Unlike many other scanner apps, **QR Studio does not require an internet connect
 - 📴 **Offline Functionality** — Core features work without an internet connection.
 - 🎨 **User-Friendly Interface** — Clean, modern design that anyone can use.
 
-[Learn more about our features →](features.html)
+[Learn more about our features →](features/)
 
 ---
 
@@ -72,7 +72,7 @@ Unlike many other scanner apps, **QR Studio does not require an internet connect
 
 ## Why Choose QR Studio?
 
-- ✅ **Privacy-first** — We don't sell your data. Ever. [Read our Privacy Policy →](privacy-policy.html)
+- ✅ **Privacy-first** — We don't sell your data. Ever. [Read our Privacy Policy →](privacy-policy/)
 - ✅ **No ads** — A clean, distraction-free experience.
 - ✅ **No tracking** — No analytics, no third-party SDKs.
 - ✅ **Open & transparent** — Our privacy policy clearly explains what we do (and don't do).
@@ -82,7 +82,7 @@ Unlike many other scanner apps, **QR Studio does not require an internet connect
 
 ## Need Help?
 
-Visit our [Support page](support.html) for FAQs, troubleshooting tips, and contact information.
+Visit our [Support page](support/) for FAQs, troubleshooting tips, and contact information.
 
 ---
 

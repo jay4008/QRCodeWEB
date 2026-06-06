@@ -4,8 +4,8 @@ tagline: QR Scanner, QR Generator & Barcode Generator
 description: >-
   QR Studio is a fast, lightweight, and privacy-friendly mobile app for
   scanning and generating QR codes and barcodes. Works fully offline.
-url: ""              # Set to your GitHub Pages URL, e.g. "https://username.github.io"
-baseurl: ""          # Set to your repo name if using project pages, e.g. "/qrstudio"
+url: "https://jay4008.github.io"              # Your GitHub Pages URL
+baseurl: "/QRCodeWEB"          # Your repo name for project pages
 
 # Build settings
 markdown: kramdown
