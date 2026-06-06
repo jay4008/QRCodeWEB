@@ -101,7 +101,7 @@ We encourage you to review this page periodically.
 
 If you have any questions about this Privacy Policy:
 
-- **Email:** support@qrstudio.example.com
+- **Email:** jayshah881994@gmail.com
 - **Support page:** [support.html](support.html)
 
 ---

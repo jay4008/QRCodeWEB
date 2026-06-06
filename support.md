@@ -2,7 +2,7 @@
 
 Need help with QR Studio? Below you'll find answers to common questions, troubleshooting tips, and contact information.
 
-**Support email:** support@qrstudio.example.com
+**Support email:** jayshah881994@gmail.com
 
 ---
 
@@ -86,8 +86,8 @@ For more, see our [Privacy Policy](privacy-policy.html).
 
 ## Contact
 
-- **Support email:** support@qrstudio.example.com
-- **Privacy inquiries:** support@qrstudio.example.com
+- **Support email:** jayshah881994@gmail.com
+- **Privacy inquiries:** jayshah881994@gmail.com
 
 ---
 

@@ -13,7 +13,6 @@ All notable changes to QR Studio are documented here.
 - Batch QR code generation — generate multiple codes from a CSV or list.
 - PDF417 barcode support.
 - In-app code preview before saving or sharing.
-- Multi-language support (English, Spanish, French, German, Japanese, Chinese).
 
 ### Improved
 - Up to 40% faster scanning on mid-range devices.

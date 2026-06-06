@@ -70,7 +70,7 @@ Then open <http://localhost:4000>.
 
 Before going live, replace the following placeholders:
 
-- [ ] `support@qrstudio.example.com` — your real support email
+- [ ] `jayshah881994@gmail.com` — your real support email
   (in `index.md`, `features.md`, `privacy-policy.md`, `support.md`, `changelog.md`, `_config.yml`, `_includes/footer.html`)
 - [ ] Google Play badge & link in `index.md` (and store SVG in `assets/images/`)
 - [ ] App Store badge & link in `index.md` (and store SVG in `assets/images/`)
