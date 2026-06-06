@@ -1,0 +1,23 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      <span class="logo" aria-hidden="true">◼</span>
+      {{ site.title | escape }}
+    </a>
+
+    <nav class="site-nav" role="navigation" aria-label="Primary">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger" aria-label="Toggle navigation menu">
+        <span class="menu-icon"></span>
+      </label>
+
+      <div class="trigger">
+        <a class="page-link" href="{{ '/index.html' | relative_url }}">Home</a>
+        <a class="page-link" href="{{ '/features.html' | relative_url }}">Features</a>
+        <a class="page-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>
+        <a class="page-link" href="{{ '/support.html' | relative_url }}">Support</a>
+        <a class="page-link" href="{{ '/changelog.html' | relative_url }}">Changelog</a>
+      </div>
+    </nav>
+  </div>
+</header>

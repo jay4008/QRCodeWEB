@@ -1,0 +1,32 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="footer-title"><strong>{{ site.title | escape }}</strong></p>
+        <p class="footer-tagline">{{ site.tagline | escape }}</p>
+      </div>
+
+      <div class="footer-col">
+        <p><strong>Site</strong></p>
+        <ul class="footer-links">
+          <li><a href="{{ '/index.html' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/features.html' | relative_url }}">Features</a></li>
+          <li><a href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a></li>
+          <li><a href="{{ '/support.html' | relative_url }}">Support</a></li>
+          <li><a href="{{ '/changelog.html' | relative_url }}">Changelog</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <p><strong>Contact</strong></p>
+        <ul class="footer-links">
+          <li><a href="mailto:support@qrstudio.example.com">support@qrstudio.example.com</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      &copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}. All rights reserved.
+    </div>
+  </div>
+</footer>

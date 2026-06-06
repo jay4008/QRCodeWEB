@@ -1,0 +1,37 @@
+# Site settings for QR Studio on GitHub Pages
+title: QR Studio
+tagline: QR Scanner, QR Generator & Barcode Generator
+description: >-
+  QR Studio is a fast, lightweight, and privacy-friendly mobile app for
+  scanning and generating QR codes and barcodes. Works fully offline.
+url: ""              # Set to your GitHub Pages URL, e.g. "https://username.github.io"
+baseurl: ""          # Set to your repo name if using project pages, e.g. "/qrstudio"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+excerpt_separator: "\n\n"
+future: true
+show_downloads: false
+
+# Plugins (GitHub Pages safe)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Author / organization
+author:
+  name: QR Studio
+  email: support@qrstudio.example.com
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
