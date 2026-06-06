@@ -1,19 +1,12 @@
----
-layout: default
-title: Features - QR Studio
-description: Explore all the features of QR Studio - QR scanner, QR generator, barcode generator, offline support, and more.
-permalink: /features/
----
-
 # Features
 
-QR Studio is packed with everything you need to scan and generate QR codes and barcodes. Below is a detailed overview of each feature.
+QR Studio is packed with everything you need to scan and generate QR codes and barcodes.
 
 ---
 
-## 🔎 QR Code Scanner
+## QR Code Scanner
 
-Point your camera at any QR code and QR Studio will instantly recognize and decode it. The scanner supports all standard QR code formats, including:
+Point your camera at any QR code and QR Studio will instantly recognize and decode it. The scanner supports all standard QR code formats:
 
 - URLs and links
 - Plain text
@@ -29,7 +22,7 @@ The scanner is optimized for speed and accuracy, even in low-light conditions.
 
 ---
 
-## 🛠 QR Code Generator
+## QR Code Generator
 
 Create QR codes for a wide variety of data types. Just pick a category, enter your content, and QR Studio will produce a high-quality QR code you can save or share.
 
@@ -48,7 +41,7 @@ All generated codes are exported at print-quality resolution.
 
 ---
 
-## 📦 Barcode Generator
+## Barcode Generator
 
 In addition to QR codes, QR Studio can generate traditional 1D barcodes used in retail, inventory, and shipping.
 
@@ -69,7 +62,7 @@ Perfect for shop owners, warehouse staff, and hobbyist developers.
 
 ---
 
-## 🕓 Scan History
+## Scan History
 
 Every code you scan is saved in a local scan history, so you can revisit it later. Each entry shows:
 
@@ -82,7 +75,7 @@ You can search your history, copy results, delete individual entries, or clear t
 
 ---
 
-## 💾 Save & Share Codes
+## Save & Share Codes
 
 Generated codes can be:
 
@@ -95,44 +88,27 @@ Sharing is handled natively by your operating system, so QR Studio never sees wh
 
 ---
 
-## ⚡ Fast Scanning
+## Offline Functionality
 
-QR Studio is engineered for speed:
-
-- Cold-start to first scan in under a second on modern devices.
-- Real-time detection with no perceptible lag.
-- Smart zoom and auto-focus for distant codes.
-- Batch scanning — scan multiple codes in a row without reopening the app.
-
----
-
-## 📴 Offline Functionality
-
-QR Studio is built to work without an internet connection. All scanning and generation happens on-device. You can:
+QR Studio works without an internet connection. All scanning and generation happens on-device. You can:
 
 - Use the scanner on a plane, train, or in remote areas.
 - Generate codes in airplane mode.
 - Access your full scan history offline.
 
-The only time the app uses the network is when **you** explicitly choose to open a scanned URL or share content through an online app.
-
 ---
 
-## 🎨 User-Friendly Interface
+## User-Friendly Interface
 
-QR Studio is designed to be approachable for everyone, from first-time smartphone users to power users.
-
-- Clean, modern Material Design (Android) and Human Interface Guidelines (iOS) inspired UI.
-- Dark mode support.
-- Large, easy-to-tap buttons.
-- Helpful tooltips and clear labels.
-- Customizable themes and accent colors.
+- Clean, modern design
+- Dark mode support
+- Large, easy-to-tap buttons
+- Helpful tooltips and clear labels
+- Customizable themes and accent colors
 
 ---
 
 ## Coming Soon
-
-We're constantly improving QR Studio. Some features on our roadmap include:
 
 - Batch QR code generation
 - Custom logo overlay on generated QR codes
